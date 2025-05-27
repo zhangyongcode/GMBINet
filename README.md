@@ -4,9 +4,9 @@ In this paper, we propose the Group Multiscale Bidirectional Interactive (GMBI) 
 
 ![image](figure/GMBI.jpg)
 
-We provide prediction downloads via Baidu Netdisk. Please download the prediction from the URL below:
-
-
+We provide prediction downloads via Google Drive or Baidu Netdisk. Please download the prediction from the URL below:
+**Google Drive**
+url： https://drive.google.com/drive/folders/11cN8mVIywytWgzlGmC02oywziuZxUfn9?usp=sharing
 **Baidu Netdisk**
 
 url：https://pan.baidu.com/s/1BtAYUKHZWM3FYqf1UBkNpw?pwd=vsid extraction code (提取码)：vsid 
